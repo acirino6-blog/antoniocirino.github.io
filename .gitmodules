@@ -1,0 +1,15 @@
+[submodule "hugo-theme-stack"]
+	path = hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
+[submodule "themes/stack"]
+	path = themes/stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack-starter
+[submodule "hugo-theme-stack-starter"]
+	path = hugo-theme-stack-starter
+	url = https://github.com/CaiJimmy/hugo-theme-stack-starter
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
